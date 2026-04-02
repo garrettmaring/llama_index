@@ -34,7 +34,7 @@ version = "0.1.4"
 [tool.poetry.dependencies]
 python = ">=3.9,<4.0"
 kaleido = "0.2.1"
-vanna = "0.0.36"
+vanna = "2.0.2"
 llama-index-core = "^0.10.11.post1"
 
 [tool.poetry.group.dev.dependencies]
